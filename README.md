@@ -3,6 +3,8 @@
 
 A React application for following a Bigger Leaner Stronger workout split, logging training, and tracking food, cardio, and body measurements.
 
+**[Open the live app](https://bls-workout-app.vercel.app/)** — no account required; logs stay in your browser.
+
 ## Features
 
 - A five-day workout split with exercise, set, rep, and rest guidance.
